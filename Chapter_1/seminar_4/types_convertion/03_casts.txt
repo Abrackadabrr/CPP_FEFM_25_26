@@ -1,0 +1,7 @@
+bool -> char -> short -> int -> double -> long double
+
+bool -> char -> short -> int -> long -> long long
+
+unsigned char -> unsigned short -> unsigned int -> unsigned long
+
+float -> double -> long double
