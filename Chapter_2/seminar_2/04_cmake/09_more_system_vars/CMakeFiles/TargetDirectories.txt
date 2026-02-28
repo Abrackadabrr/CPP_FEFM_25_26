@@ -1,0 +1,2 @@
+/home/evgen/Work/MIPT/InfoChair/fefm_cpp_2_level/FEFM_cpp_3sem/Chapter_2/seminar_1/04_cmake/09_more_system_vars/CMakeFiles/edit_cache.dir
+/home/evgen/Work/MIPT/InfoChair/fefm_cpp_2_level/FEFM_cpp_3sem/Chapter_2/seminar_1/04_cmake/09_more_system_vars/CMakeFiles/rebuild_cache.dir
